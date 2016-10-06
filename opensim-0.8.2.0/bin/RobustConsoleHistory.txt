@@ -1,0 +1,604 @@
+quit
+quit
+Diego
+Aguilera
+create user
+quit
+quit
+quit
+Admin
+diego.aguilera@estudiante.uam.es
+create user ADMIN
+help
+help users
+set user level ADMIN Admin 200
+set user level ADMIN Admin2 200
+quit
+help
+help comms
+show assets
+regions
+help regions
+show regions
+show region
+show users
+help users
+show grid user
+create suer
+Diego
+Admin
+aguileragrejondiego@gmail.com
+22021987
+show users
+Diego
+Admin
+aguileragrejondiego@gmail.com
+create user
+quit
+show regions
+help
+help regions
+show regions
+show users
+help show
+help
+help users
+quit
+quit
+use os_groups_groups
+diego
+diego
+set user level
+Diego
+Admin
+200
+set user level
+help set
+set administrators
+help
+comms
+help Comms
+help users
+show account Diego Admin
+quit
+help
+help assets
+help plugin
+plugin list available
+plugin list installed
+help
+help general
+show grid size
+help comms
+help repository
+quit
+quit
+quit
+quit
+quit
+show http-handlers
+quit
+quit
+quit
+quit
+show regions
+help create region
+help create
+help
+help regions
+help create user
+help load oar
+show regions
+help
+help user
+help
+quit
+Xavier
+Alaman
+create user
+Jaume
+Bartoli
+create user
+Anna
+Casamitjana
+create user
+MJose
+Lasala
+create user
+Mariajose
+Lasala
+create user
+help
+help regions
+show regions
+prueba
+prueba
+create user
+quit
+quit
+Juan
+Mateu
+create user
+hombre
+hombre
+create user
+show users
+quit
+Alumno
+Florida1
+create user
+Alumno
+Florida2
+create user
+Alumno
+Florida3
+create user
+Alumno
+Florida4
+create user
+Alumno
+Florida5
+create user
+Alumno
+Florida6
+Florida6
+Alumno
+Florida6
+create user
+Alumno
+Florida7
+create user
+Alumno
+Florida8
+create user
+Alumno
+Florida9
+create user
+Alumno
+Florida10
+create user
+Alumno
+Florida11
+Alumno
+Florida11
+create user
+Alumno
+Alumno
+Florida12
+create user
+Alumno
+Florida13
+create user
+Alumno
+Florida14
+create user
+Alumno
+Florida15
+create user
+terrain feature
+Victor
+Martinez
+create user
+Miguel
+Gea
+create user
+Graciela
+Guerrero
+create user
+Andres
+Ayala
+create user
+quit
+quit
+prueba
+prueba
+create user
+quit
+quit
+quit
+quit
+quit
+quit
+quit
+quit
+gael
+garrigos
+create user
+didac hidalgo
+didac
+hidalgo
+create user
+xavier
+martinez
+create user
+biel
+maza
+create user
+teresa
+magre
+create user
+dunia
+rodon
+create user
+alex
+moya
+create user
+joel
+ais
+create user
+noelia
+ais
+create user
+alejo
+tomas
+create user
+esther
+cuenca
+create user
+bader
+elailat
+create user
+abde
+elghazi
+create user
+tania
+garcia
+create user
+teresa
+magre
+create user
+bader
+elaiat
+create user
+quit
+bot
+bot
+create user
+bot2
+bot2
+create user
+quit
+quit
+change region
+quit
+quit
+quit
+quit
+quit
+quit
+quit
+quit
+prueba
+prueba
+create user
+quit
+Vicente
+Martinez
+create user
+Vicente
+Martinez
+create user
+Alumno1
+Granada
+create user
+Alumno2
+Granada
+create user
+Alumno3
+Granada
+create user
+Profesor1
+Granada
+create user
+Profe2
+create user
+Profesor2
+Granada
+create user
+Profesor3
+Granada
+create user
+create user
+prueba
+prueba
+create user
+help
+show users
+help users
+show grid users online
+quit
+show grid users online
+help
+show regions
+help regions
+shoe region name grecia
+show region name grecia
+help
+help comms
+help assets
+help help
+help users
+show grid users online
+quit
+quit
+change region moda
+select region moda
+help regions
+quit
+delete user
+help users
+defecto
+hombre
+create user
+defecto
+mujer
+create user
+quit
+sara
+gil
+create user
+andrei
+valentin
+create user
+alan
+leon
+alan
+leon
+create user
+marina
+lopez
+create user
+oscar
+martinez
+create user
+adri
+seba
+create user
+antonio
+serrano
+create user
+ainoa
+valiente
+create user
+AlexZ44
+create user
+alex
+zurita
+create user
+profe1
+profe1
+create user
+profe2
+profe2
+create user
+profe3
+profe3
+create user
+antonio
+serrano
+create user
+ainoa
+valiente
+create user
+ainoa
+valiente
+create user
+help estate
+show help
+help
+quit
+quit
+crete user
+pepe
+create user
+jordi
+recasens
+create user
+jordi
+recasens
+create user
+show users
+help users
+show grid users online
+quit
+quit
+quit
+quit
+qw
+quit
+quit
+quit
+quit
+quit
+ramon
+barlam
+create user
+show users
+noelia
+ais
+reset user password
+alejo
+tomas
+reset user password
+esther
+cuenca
+reset user password
+bader
+elaiat
+reset user password
+abde
+elghazig
+reset user password
+abde
+elghazi
+reset user password
+tania
+garcia
+reset user password
+quit
+quit
+quit
+quit
+quit
+quit
+quit
+2
+quit
+quit
+quit
+help
+help users
+show grid users online
+Diego
+Admin2
+create user
+quit
+quit
+help create user
+create user Nuria Depedro NuriaD03
+Male
+Avatar
+create user
+Female
+Avatar
+create user
+show regions
+help
+help users
+show account emma puente
+show account p p
+delete user p p
+help users
+show grid users online
+quit
+quit
+help
+help users
+create user adolfo alaman adolfo65
+create user Fernando Pozueta fernando56
+create user Adolfo Alaman adolfo65
+create user Adolfo Alaman adolfo65
+create user Fernando Pozueta fernando56
+show regions
+help save oar
+help save iar
+help load iar
+help create user
+Adolfo
+Alaman
+create user
+Adolfo
+Alaman
+create user
+help create region
+Adolfo
+Alaman
+create user
+show users
+show regions
+Prueba12
+Prueba12
+create user
+show users
+show users
+help
+help users
+show grid user f
+show account Female Avatar
+help load iar
+quit
+help create user
+create user Joan Adalid JoanAE1 xavier.alaman@uam.es
+create user Andrea Altes AndreaAE2 xavier.alaman@uam.es
+create user Georgi Angerou GeorgiAE3 xavier.alaman@uam.es
+create user Anastasya Bodnar AnastasyaBE4 xavier.alaman@uam.es
+show regions
+create user Syra Boix SyraBE5 xavier.alaman@uam.es
+create user Candela Bonet CandelaBE6 xavier.alaman@uam.es
+create user Marta Cabrera MartaCE7 xavier.alaman@uam.es
+create user Edgar Campano EdgarCE8 xavier.alaman@uam.es
+create user Marc Carrasco MarcCE9 xavier.alaman@uam.es
+create user David Castro DavidCE10 xavier.alaman@uam.es
+create user Laura Civit LauraCE11 xavier.alaman@uam.es
+create user Josep Concernau JosepCE12 xavier.alaman@uam.es
+create user Judith Cuenca JudithCE13 xavier.alaman@uam.es
+create user Marta Guinovart MartaCE13 xavier.alaman@uam.es
+create user Ian Masdeu IanME14 xavier.alaman@uam.es
+create user Santiago Moore SantiagoME15 xavier.alaman@uam.es
+create user Anna Robert AnnaRE16 xavier.alaman@uam.es
+create user Alexandra Rua AlexandraRE17 xavier.alaman@uam.es
+create user Sheila Sanchez SheilaSE18 xavier.alaman@uam.es
+create user Paula Sanchez PaulaSE19 xavier.alaman@uam.es
+create user Arnau Sanroma ArnauSE20 xavier.alaman@uam.es
+create user Marina Santos MarinaSE21 xavier.alaman@uam.es
+create user Norah Sierra NorahSE22 xavier.alaman@uam.es
+create user Miriam Suarez MiriamSE23 xavier.alaman@uam.es
+create user Anna Ujade AnnaUE24 xavier.alaman@uam.es
+create user Hamza Dadaie HamzaDE1 xavier.alaman@uam.es
+create user Bilal Eladdouti BilalEE2 xavier.alaman@uam.es
+create user Nada ElhannatiEE3 xavier.alaman@uam.es
+create user Nada Elhannati ElhannatiEE3 xavier.alaman@uam.es
+create user Yamina Elidrissi YaminaEE4 xavier.alaman@uam.es
+create user Omeima Elkhanfri OmeimaEE5 xavier.alaman@uam.es
+create user Judith Garcia JudithGE6 xavier.alaman@uam.es
+create user Adria Guijarro AdriaGE7 xavier.alaman@uam.es
+create user Adrian Illescan AdrianIE8 xavier.alaman@uam.es
+create user Aurora Linares AuroraLE9 xavier.alaman@uam.es
+create user Sarray Lopez SarrayLE10 xavier.alaman@uam.es
+create user Carolina Marcos CarolinaME11 xavier.alaman@uam.es
+create user Pau MArti PauME12 xavier.alaman@uam.es
+create user Ramon Melendez RamonME13 xavier.alaman@uam.es
+create user Ivan Pardal IvanPE14 xavier.alaman@uam.es
+create user Desire Recasens DesireRE15 xavier.alaman@uam.es
+create user Sabrina Sehairi SabrinaSE16 xavier.alaman@uam.es
+help user
+help
+help users
+reset user password Nada Elhannati NadaEE3
+reset user password Marta Guinovart MartaGE13
+reset user password Omeima Elkhanfri OmeimaEE5
+create user Omeima Elkhanfri
+reset user password Omeima Elkhanfri
+create user Saray Lopez SarayLE10 xavier.alaman@uam.es
+help create user
+quit
+quit
+quit
+quit
+help login
+help enable login
+quit
+quit
+show users
+help users
+show grid users online
+show users online
+help users
+show grid users online
+quit
+quit
+show grid users online
+quit
+quit
+quit
+show users online
+help users
+show grid users online
+quit
+show grid users online
+show grid users online
+show grid users online
+help users
+show grid users
+show grid user
+show grid users online
+show grid users online
+show grid users online
+help users
+help
+help general
+show grid users online
+show grid users online
+show http-handlers
+show http-handlers
+show http-handlers
